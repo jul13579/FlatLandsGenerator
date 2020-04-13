@@ -1,0 +1,6 @@
+name: FlatLandsGenerator
+main: de.lerry.FlatLandsGenerator
+author: 'jul123579'
+version: 1.0
+api-version: 1.15
+load: STARTUP
